@@ -6,6 +6,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/Quizes" changelist="3e73f090-d6bf-4783-8946-ea97c53fbfc7" time="1379494273867" ignored="false" />
     <file path="/Mongo Shell" changelist="3e73f090-d6bf-4783-8946-ea97c53fbfc7" time="1379494502417" ignored="false" />
+    <file path="/.gitignore" changelist="3e73f090-d6bf-4783-8946-ea97c53fbfc7" time="1379498647442" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +28,16 @@
       <file leaf-file-name="Quizes" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/M101P/Lesson 1/Quiz/Quizes">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="0" selection-start="1201" selection-end="1201" vertical-scroll-proportion="0.0">
+            <state line="63" column="1" selection-start="2012" selection-end="2012" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="5" selection-start="61" selection-end="61" vertical-scroll-proportion="0.08383234">
               <folding />
             </state>
           </provider>
@@ -37,15 +47,6 @@
         <entry file="file://$PROJECT_DIR$/M101P/Mongo Shell">
           <provider selected="true" editor-type-id="text-editor">
             <state line="13" column="0" selection-start="200" selection-end="200" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="45" selection-start="633" selection-end="633" vertical-scroll-proportion="0.5129771">
               <folding />
             </state>
           </provider>
@@ -62,9 +63,10 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/M101P/PyCharm.keys" />
-        <option value="$PROJECT_DIR$/M101P/Lesson 1/Quiz/Quizes" />
         <option value="$PROJECT_DIR$/Mongo Shell" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/M101P/Lesson 1/Quiz/Quizes" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -369,9 +371,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/M101P/Lesson 1/Quiz/Quizes">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="0" selection-start="1201" selection-end="1201" vertical-scroll-proportion="0.0">
+        <state line="32" column="36" selection-start="587" selection-end="587" vertical-scroll-proportion="0.68396944">
           <folding />
         </state>
       </provider>
@@ -383,9 +385,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/M101P/Lesson 1/Quiz/Quizes">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="45" selection-start="633" selection-end="633" vertical-scroll-proportion="0.5129771">
+        <state line="63" column="1" selection-start="2012" selection-end="2012" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="5" selection-start="61" selection-end="61" vertical-scroll-proportion="0.08383234">
           <folding />
         </state>
       </provider>
