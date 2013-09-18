@@ -1,0 +1,13 @@
+FIND
+>	db.collection.find()
+>	db.collection.findOne()
+>	db.collection.find().pretty()
+
+SAVE
+>	db.collection.save({ a:1, b:2, c:3 })
+
+>	var j = db.names.findOne()
+>	j.name = "Bob"
+>	db.names.save(j)
+
+
