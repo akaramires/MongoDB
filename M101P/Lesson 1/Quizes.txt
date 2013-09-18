@@ -40,7 +40,8 @@ Which of the following are valid JSON documents?
 
 Quiz: JSON Revisited
 
-Write the JSON for a simple document containing a single key "fruit" that has as its value an array containing three strings: "apple", "pear", and "peach"
+Write the JSON for a simple document containing a single key "fruit" that has as its value an array containing three
+strings: "apple", "pear", and "peach"
 {
 	"fruit": [
 		"apple",
@@ -53,7 +54,9 @@ Write the JSON for a simple document containing a single key "fruit" that has as
 
 Quiz: JSON Subdocuments
 
-Write a JSON document with a single key, "address" that has as it value another document with the keys 'street_address', 'city', 'state', 'zipcode', with the following values: 'street_address' is "23 Elm Drive", 'city' is "Palo Alto", 'state' is "California", 'zipcode' is "94305"
+Write a JSON document with a single key, "address" that has as it value another document with the keys 'street_address',
+'city', 'state', 'zipcode', with the following values: 'street_address' is "23 Elm Drive", 'city' is "Palo Alto", 'state'
+is "California", 'zipcode' is "94305"
 {
     "address": {
         'street_address': "23 Elm Drive",
@@ -64,8 +67,37 @@ Write a JSON document with a single key, "address" that has as it value another 
 }
 
 ------------------------------------------------------------------------------------------------------------------------
+
+Quiz: Blog in Relational Tables
+
+let’s assume that our blog can be modeled with the following relational tables:
+In order to display a blog post with its comments and tags, how many tables will need to be accessed?
+	2
+	3
+	5
++	6
+
 ------------------------------------------------------------------------------------------------------------------------
+
+Quiz: Blog in Documents
+
+Given the document schema that we proposed for the blog, how many collections would we need to access to display the
+blog home page?
+	0
++	1
+	2
+	4
+
 ------------------------------------------------------------------------------------------------------------------------
+
+Quiz: Intro to Schema Design
+
+In which scenario is it impossible to embed data within a document (you must put the data in it a separate collection). Check all that apply.
+	The data would be duplicated across multiple objects within a collection.
+	You need an index on the data element.
++	The embedded data could exceed the 16MB document limit within MongoDB
+	The data is not isomorphic.
+
 ------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------
